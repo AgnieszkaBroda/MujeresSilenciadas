@@ -15,7 +15,7 @@ Univesidad de Granada
 
 **Resumen** : Desarrollar mediante la plataforma twitter hilos de historias que permitan no sería solo recordar la labor de estas mujeres, sino también su entorno, cómo llegaron a ser lo que fueron o por qué han sido olvidadas y/o silenciadas, es decir, reconstruir un perfil completo a través de los diferentes formatos audiovisuales como puede ser el audio, el video o incluso la fotografía.
 
-**logotipo** :  https://github.com/AgnieszkaBroda/PeriodismoMultimedia_Template/blob/master/logo.jpg
+**logotipo** :  
 
 **Slogan** (frase motivadora/inspiradora): "Que el tiempo no nos silencie". 
 
